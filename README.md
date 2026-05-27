@@ -24,7 +24,7 @@
 ---
 
 ## Connect With Me
-- LinkedIn:linkedin.com/in/bablu-gadpale
+- LinkedIn: https://linkedin.com/in/bablu-gadpale
 - GitHub: https://github.com/bablugadpale
 - Email:bablu.gadpale.it@gmail.com
   ---
