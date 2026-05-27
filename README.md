@@ -9,7 +9,7 @@
 ## Skills
 - Java
 - Python
-- HTML CSS JavaScript
+- HTML | CSS | JavaScript
 - Machine Learning
 - Git & GitHub
 
