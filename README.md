@@ -24,13 +24,7 @@
 ---
 
 ## Connect With Me
-- LinkedIn
-- GitHub
-- Email
+- LinkedIn:linkedin.com/in/bablu-gadpale
+- GitHub: https://github.com/bablugadpale
+- Email:bablu.gadpale.it@gmail.com
   ---
-
-## GitHub Stats
-
-![Bablu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bablugadpale&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bablugadpale&layout=compact)
